@@ -1,5 +1,5 @@
 ==================
-### **tag2trend**
+**tag2trend**
 ==================
 
 ***A general library for handling trend series.***
