@@ -1,12 +1,12 @@
 ==================
-### tag2trend
+### *tag2trend*
 ==================
 
 ***A general library for handling trend series.***
 
-============
-Description
-============
+----------------
+*Description*
+----------------
 
 This library was created as a tool for the analysis of *AspenTech InfoPlus.21* Database-derived temporal data series.
 
