@@ -2,6 +2,8 @@
 **tag2trend**
 ==================
 
+**STILL BEING RESHAPED INTO SPLIT MODULES!**
+
 ***A general library for handling trend series.***
 
 ----------------
