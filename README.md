@@ -14,7 +14,7 @@ This library was created as a tool for the analysis of *AspenTech InfoPlus.21*, 
 
 It still consists of an ongoing development, whose dependencies are essential for the handling of:
 
-* ODBC connection between PC-AspenTech InfoPlus.21 (IP21): `pyodbc <http://code.google.com/archive/p/pyodbc>`_
+* ODBC connection between PC-AspenTech InfoPlus.21 (IP21): <a href="http://code.google.com/archive/p/pyodbc">`pyodbc`</a>
 * Data, time, timezone: `datetime <https://docs.python.org/2/library/datetime.html>`_
 * Ubiquity among objects: `ctypes <https://docs.python.org/2/library/ctypes.html>`_
 * Regular expressions: `re <https://docs.python.org/2/library/re.html>`_
