@@ -14,14 +14,14 @@ This library was created as a tool for the analysis of *AspenTech InfoPlus.21*, 
 
 It still consists of an ongoing development, whose dependencies are essential for the handling of:
 
-* ODBC connection between PC-AspenTech InfoPlus.21 (IP21): `pyodbc`
-* Data, time, timezone: `datetime`
-* Ubiquity among objects: `ctypes`
-* Regular expressions: `re`
-* Scientific units: `pint`
-* Object untanglement: `copy`
-* Interpolation, derivation, integration: `scipy`
-* General data handling: `numpy`
-* Data visualization: `maplotlib`
+* ODBC connection between PC-AspenTech InfoPlus.21 (IP21): `pyodbc <http://code.google.com/archive/p/pyodbc>`_
+* Data, time, timezone: `datetime <https://docs.python.org/2/library/datetime.html>`_
+* Ubiquity among objects: `ctypes <https://docs.python.org/2/library/ctypes.html>`_
+* Regular expressions: `re <https://docs.python.org/2/library/re.html>`_
+* Scientific units: `pint <https://pint.readthedocs.org/>`_
+* Object untanglement: `copy <https://docs.python.org/2/library/copy.html>`_
+* Interpolation, derivation, integration: `scipy <http://www.scipy.org/>`_
+* General data handling: `numpy <http://www.numpy.org/>`_
+* Data visualization: `maplotlib <http://matplotlib.org/>`_
 
 
