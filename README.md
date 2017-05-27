@@ -11,7 +11,7 @@
 **Description**
 ----------------
 
-This library was created as a tool for the analysis of *AspenTech InfoPlus.21*, aka *IP.21*, Database-derived temporal data series.
+This library was created as a tool for the analysis of *AspenTech InfoPlus.21*, aka *IP.21*, Database-derived timeseries.
 
 It still consists of an ongoing development, whose dependencies are essential for the handling of:
 
