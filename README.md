@@ -20,7 +20,7 @@ It still consists of an ongoing development, whose dependencies are essential fo
 * Ubiquity among objects: <a href="https://docs.python.org/2/library/ctypes.html">`ctypes`</a>
 * Regular expressions: <a href="https://docs.python.org/2/library/re.html">`re`</a>
 * Scientific units: <a href="https://pint.readthedocs.org/">`pint`</a>
-* Object untanglement: <a href="https://docs.python.org/2/library/copy.html">`copy`</a>
+* Object disentanglement: <a href="https://docs.python.org/2/library/copy.html">`copy`</a>
 * Interpolation, derivation, integration: <a href="http://www.scipy.org/">`scipy`</a>
 * General data handling: <a href="http://www.numpy.org/">`numpy`</a>
 * Data visualization: <a href="http://matplotlib.org/">`maplotlib`</a>
